@@ -20,7 +20,7 @@ CRUD components
 
     POST grocery haul(add new groceries)
 
-    PATCH 
+    PATCH close fridge button toggle useState
 
     DELETE if groceries are bad/expired 
 
