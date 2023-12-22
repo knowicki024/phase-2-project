@@ -6,6 +6,8 @@ FIGMA LINK : "https://www.figma.com/file/9ScI1YBCbWa6w76NyHkcbz/Untitled?type=wh
 
 GITHUB REPO: "https://github.com/knowicki024/phase-2-project"
 
+Trello Board: "https://trello.com/b/vJ4rF7eM/phase-2-project"
+
 App component --GP
 Header component --P
 Page component --P 
