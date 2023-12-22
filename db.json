@@ -1,10 +1,13 @@
 {
     "Groceries" : [
         {
+            "id": "",
             "name": "",
             "category": "",
             "image" : "",
-            "purchase_date": ""
+            "purchase_date": "",
+            "spoiled" : "true or false", 
+            "description": ""
 
         }
     ]
