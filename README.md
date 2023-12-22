@@ -17,7 +17,7 @@ Food Item component --GC
 
 Groceries Array 
     name 
-    image 
+    image -- EMOJI? 
     experation/make date -- good to use / need to use / BAD 
     category 
 
@@ -41,7 +41,11 @@ CRUD components
 
     if expired- changes to stinky face 
 
-    create recipe??
-    
+    create recipe or suggest recipe ??
+
+    close to expiration date alert 
+
+    auto delete setting 
+
 
 
