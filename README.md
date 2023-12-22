@@ -9,7 +9,7 @@ GITHUB REPO: "https://github.com/knowicki024/phase-2-project"
 Trello Board: "https://trello.com/b/vJ4rF7eM/phase-2-project"
 
 App component --GP
-Header component --P
+New Food Form component --P
 Page component --P 
 Search component --CH
 Food List component --CH/P

@@ -1,0 +1,11 @@
+{
+    "Groceries" : [
+        {
+            "name": "",
+            "category": "",
+            "image" : "",
+            "purchase_date": ""
+
+        }
+    ]
+}
