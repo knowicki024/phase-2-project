@@ -39,4 +39,9 @@ CRUD components
 
     hover tag with catagory of food. 
 
+    if expired- changes to stinky face 
+
+    create recipe??
+    
+
 
