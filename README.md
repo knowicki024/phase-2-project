@@ -1,11 +1,17 @@
 CLEAR THE FRIDGE!
 
-App component 
-Header component
-Page component
-Search component
-Food List component
-Food Item component
+This app will help keep your fridge organized and updated by keeping track of inventory. It allows the user to clear bad food out once its expired, keep track of expiration dates, search for items in your inventory, and add new groceries. 
+
+FIGMA LINK : "https://www.figma.com/file/9ScI1YBCbWa6w76NyHkcbz/Untitled?type=whiteboard&node-id=0-1&t=5e1E7s8pnLvVWf5g-0"
+
+GITHUB REPO: "https://github.com/knowicki024/phase-2-project"
+
+App component --GP
+Header component --P
+Page component --P 
+Search component --CH
+Food List component --CH/P
+Food Item component --GC
 
 Groceries Array 
     name 
@@ -28,5 +34,7 @@ CRUD components
     STRETCH
 
     create countdown timer
+
+    hover tag with catagory of food. 
 
 
